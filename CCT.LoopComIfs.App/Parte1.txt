@@ -1,0 +1,10 @@
+﻿CCT - Loop com ifs
+====================
+
+- Como esse conhecimento te ajuda?
+  - código mais simples
+  - código mais claro
+  - simplicidade + clareza = menos bugs
+
+- Mostrar código
+

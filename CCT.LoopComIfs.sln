@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCT.LoopComIfs.App", "CCT.LoopComIfs.App\CCT.LoopComIfs.App.csproj", "{63085726-D88D-472B-A2A7-5851E3C45064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCT.LoopComIfs.UnitTest", "CCT.LoopComIfs.UnitTest\CCT.LoopComIfs.UnitTest.csproj", "{E824F4B1-B682-4FD9-A80D-ED8EBA79F12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63085726-D88D-472B-A2A7-5851E3C45064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63085726-D88D-472B-A2A7-5851E3C45064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63085726-D88D-472B-A2A7-5851E3C45064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63085726-D88D-472B-A2A7-5851E3C45064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E824F4B1-B682-4FD9-A80D-ED8EBA79F12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E824F4B1-B682-4FD9-A80D-ED8EBA79F12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E824F4B1-B682-4FD9-A80D-ED8EBA79F12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E824F4B1-B682-4FD9-A80D-ED8EBA79F12E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE78DDAC-587D-46AF-9DCA-B07053AB4B06}
+	EndGlobalSection
+EndGlobal

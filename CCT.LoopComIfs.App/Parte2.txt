@@ -1,0 +1,19 @@
+﻿CCT - Loop com ifs
+====================
+
+- Como esse conhecimento te ajuda?
+  - código mais simples
+  - código mais claro
+  - simplicidade + clareza = menos bugs
+
+- Mostrar código
+
+- Por que é um problema?
+  - lógica difícil de entender
+    - pode ter mais de 1 desconto do mesmo tipo?
+    - tem uma ordem de aplicação?
+  - teste parece esquisito
+    - não precisa testar os outros tipos?
+    - aplicou a regra do limite ou não?
+  - efeito ônibus
+
